@@ -1,0 +1,164 @@
+from railway station:-
+3 star hotel: 5km towards east
+price:2000-2200 /day
+5 star hotel: 11km towars south
+price:2300-2500 /day
+local fare, auto: 10
+Restaurant: 2km towards east
+Palace: 9km towards north
+Ticket: 50/-
+Bus stand: 1.5km towards west
+
+from railway station:-
+3 star hotel: 8km towards north
+price:1500-1600 /day
+5 star hotel: 3km towars north-east
+price:2100-2300 /day
+Restaurant: 2km towards west
+local fare, auto: 20
+Palace: 18km towards east-west
+Ticket: 30/-
+Bus stand: 3km towards west
+
+from railway station:-
+3 star hotel: 15km towards west
+price:2200-2500 /day
+5 star hotel: 13km towars south-east
+price:3200-3400 /day
+Restaurant: 6km towards north
+local fare, auto: 15
+Palace: 15km towards north
+Ticket: 40/-
+Bus stand: 7km towards north-east
+
+from railway station:-
+3 star hotel: 1km towards south
+price:800-900 /day
+5 star hotel: 500m towars east
+price:1200-1600 /day
+Restaurant: 2km towards east
+local fare, auto: not fixed(meter)
+Palace: 6km towards south
+Ticket: No charges
+Bus stand: 3 towards west-east
+
+from railway station:-
+3 star hotel: 14km towards east-north
+price:1400-1800 /day
+5 star hotel: 11km towars east-north
+price:1800-2200 /day
+Restaurant: 12km towards east
+local fare, auto: 5
+Palace: 6km towards east
+Ticket: 80/-
+Bus stand: 2km towards west
+
+from railway station:-
+3 star hotel: 17km towards west
+price:2800-3600 /day
+5 star hotel: 13km towars east
+price:3600-4200 /day
+Restaurant: 20km towards north
+local fare, auto: 19
+Palace: 19km towards south
+Ticket: 90/-
+Bus stand: 5km towards west
+
+from railway station:-
+3 star hotel: 0.5km towards north
+price:1700-2700 /day
+5 star hotel: 7km towars south
+price:2700-3700 /day
+Restaurant: 0.63km towards east-north
+local fare, auto: 18
+Palace: 6.5km towards north-east
+Ticket: 70/-
+Bus stand: 3.2km towards south
+
+from railway station:-
+3 star hotel: 5.5km towards north-south
+price:1900-2200 /day
+5 star hotel: 11.3km towars east
+price:2300-3300 /day
+Restaurant: 2.4km towards east
+local fare, auto: 15
+Palace: 9.6km towards south-west
+Ticket: 40/-
+Bus stand: 1.8km towards east
+
+from railway station:-
+3 star hotel: 22km towards east-west
+price:1500-2500 /day
+5 star hotel: 12km towars south-east
+price:2500-3600 /day
+Restaurant: 2km towards east
+local fare, auto: not fixed(meter)
+Palace: 32km towards south
+Ticket: No charges
+Bus stand: 0.2km towards west-north
+
+from railway station:-
+3 star hotel: 11km towards east-north
+price:4200-4400 /day
+5 star hotel: 10.8km towars south-east
+price:5000-5200 /day
+Restaurant: 2.6km towards east
+local fare, auto: 20
+Palace: 9.8km towards north
+Ticket: 50/-
+Bus stand: 5km towards west-north
+
+from railway station:-
+3 star hotel: 13km towards east-north
+price:3000-3200 /day
+5 star hotel: 14km towars north-east
+price:4000-4200 /day
+Restaurant: 12.6km towards nort
+local fare, auto: 10
+Palace: 9.18km towards north
+Ticket: 30/-
+Bus stand: 7km towards north
+
+from railway station:-
+3 star hotel: 5km towards east
+price:1700-2200 /day
+5 star hotel: 6km towars west
+price:3000-3200 /day
+Restaurant: 7km towards noth
+local fare, auto: 7
+Palace: 8km towards south
+Ticket: 100/-
+Bus stand: 9km towards west-north
+
+from railway station:-
+3 star hotel: 17.36km towards nort
+price:1300-1500 /day
+5 star hotel: 18.8km towars west
+price:2500-2800 /day
+Restaurant: 22.16km towards west
+local fare, auto: 4
+Palace: 9.88km towards south-east
+Ticket: 70/-
+Bus stand: 800m towards north
+
+from railway station:-
+3 star hotel: 11.52km towards south-north
+price:1800-2200 /day
+5 star hotel: 8.33km towars south-north
+price:2800-3000 /day
+Restaurant: 21.6km towards east-west
+local fare, auto: 15
+Palace: 21km towards north
+Ticket: 50/-
+Bus stand: 3.68km towards west-east
+
+from railway station:-
+3 star hotel: 11.11km towards south
+price:1200-2000 /day
+5 star hotel: 10.10km towars south
+price:22000-2400 /day
+Restaurant: 2.22km towards north
+local fare, auto: 20
+Palace: 7.77km towards north-east
+Ticket: 80/-
+Bus stand: 5.55km towards north
