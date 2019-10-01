@@ -1,11 +1,16 @@
-#include<iostream>
+/*#include<iostream>
 #include<stdlib.h>
 #include<fstream>
 #include<string>
-#include<conio.h>
+#include<conio.h>*/
+//you can add one line instead of these all lines that are you written above. 
+#include<bits/stdc++.h>  //header file
+
 using namespace std;
-char password[30];
-class a{
+
+char password[30]; //variable
+
+class a{      //class
 public:
 static int count;
 void fun_file();
