@@ -93,7 +93,6 @@ exit(0);
 }
 int main()
 {
-printf("\t\t\t\t\t\t\tKBC me Shivam Kumar aapka swaagat krte hai\n");
 printf("\t\t\t\t\t\t\t******************************************\n\n");
 printf("\a");
 char ch1;
@@ -136,3 +135,4 @@ break;
 }
 fclose(ptr);
 }
+//Updated
